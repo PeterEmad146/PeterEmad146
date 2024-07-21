@@ -7,13 +7,6 @@
 - **Hardware Design** 🛠️
 - **Embedded Systems** 🤖
 
-## About Me
-I'm passionate about technology and always eager to dive deeper into the world of electronics and embedded systems. Currently, I'm honing my skills in various domains such as:
-
-- **PCB Design**: Crafting efficient, reliable, and compact circuit boards.
-- **Hardware Design**: Building and testing hardware components for various innovative applications.
-- **Embedded Systems**: Developing and programming microcontroller-based systems to bring ideas to life.
-
 ## 🔗 Let's Connect!
 I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Feel free to reach out to me through:
 
@@ -22,4 +15,3 @@ I'm always excited to connect with like-minded individuals and collaborate on in
 
 Looking forward to connecting and building something amazing together!
 
-![GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
