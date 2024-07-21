@@ -17,7 +17,10 @@ I'm passionate about technology and always eager to dive deeper into the world o
 ## 🔗 Let's Connect!
 I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Feel free to reach out to me through:
 
-- [**LinkedIn**]([https://www.linkedin.com/in/peteremad](https://www.linkedin.com/in/peteremad146/)) 💼
+- [**LinkedIn**](https://www.linkedin.com/in/peteremad) 💼
+<a href="https://www.linkedin.com/in/peteremad">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 - [**Email**](mailto:peteremads1406@gmail.com) 📧
 
 Looking forward to connecting and building something amazing together!
