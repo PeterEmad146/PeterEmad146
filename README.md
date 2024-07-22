@@ -1,4 +1,6 @@
-# Hi there, I'm Peter Emad 👋
+<div align="center">
+  <h1>Hi there, I'm Peter Emad 👋</h1>
+</div>
 
 🎓 I'm a sophomore Electronics Engineering student at the German University in Cairo.
 
@@ -15,3 +17,6 @@ I'm always excited to connect with like-minded individuals and collaborate on in
 
 Looking forward to connecting and building something amazing together!
 
+<div align="center">
+  <img src="https://images.vexels.com/content/157782/preview/cool-robot-6e5233.png" width="200">
+</div>
