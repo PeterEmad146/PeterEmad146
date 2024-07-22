@@ -18,5 +18,5 @@ I'm always excited to connect with like-minded individuals and collaborate on in
 Looking forward to connecting and building something amazing together!
 
 <div align="center">
-  <img src="https://images.vexels.com/content/157782/preview/cool-robot-6e5233.png" width="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVpZDlyMzJ2cG5obGQ5bmNvYWVseTRtdGdlYm5wZnR3MjlhamY3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4vyheFbAkgGkjogeAO/giphy.webp" width="250">
 </div>
