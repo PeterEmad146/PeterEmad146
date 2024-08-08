@@ -2,6 +2,9 @@
   <h1>Hi there, I'm Peter Emad 👋</h1>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=PeterEmad146)
+
+
 🎓 I'm a sophomore Electronics Engineering student at the German University in Cairo.
 
 🔍 I have a keen interest in:
