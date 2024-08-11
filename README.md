@@ -15,8 +15,8 @@
 ## 🔗 Let's Connect!
 I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Feel free to reach out to me through:
 
-- [**LinkedIn**](https://www.linkedin.com/in/peteremad146/) 💼
-- [**Email**](mailto:peteremads1406@gmail.com) 📧
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peteremad146/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peteremads1406@gmail.com)
 
 Looking forward to connecting and building something amazing together!
 
