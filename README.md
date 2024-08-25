@@ -12,17 +12,20 @@
 - **Hardware Design** 🛠️
 - **Embedded Systems** 🤖
 
+<div align=center>
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PeterEmad146&theme=dark)](https://git.io/streak-stats)
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterEmad146&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterEmad146&layout=compact)
 
-## 🔗 Let's Connect!
-I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Feel free to reach out to me through:
+</div>
+
+<div align=center>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peteremad146/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peteremads1406@gmail.com)
 
-Looking forward to connecting and building something amazing together!
+</div>
 
 <div align="center">
   <img src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" width="250">
