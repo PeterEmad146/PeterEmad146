@@ -12,6 +12,10 @@
 - **Hardware Design** 🛠️
 - **Embedded Systems** 🤖
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PeterEmad146&theme=dark)](https://git.io/streak-stats)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterEmad146&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterEmad146&layout=compact)
+
 ## 🔗 Let's Connect!
 I'm always excited to connect with like-minded individuals and collaborate on innovative projects. Feel free to reach out to me through:
 
