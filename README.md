@@ -20,12 +20,10 @@
 
 </div>
 
-<div align=center>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peteremad146/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peteremads1406@gmail.com)
 
-</div>
 
 <div align="center">
   <img src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" width="250">
