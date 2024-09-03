@@ -21,7 +21,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=PeterEmad146&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
+<div align=center>
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PeterEmad146&icon=0&color=0)](https://visitcount.itsvg.in)
