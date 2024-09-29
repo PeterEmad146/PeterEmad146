@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm a sophomore Electronics Engineering student at the German University in Cairo.<br><br>I have a keen interest in:<br><br>🖥️PCB Design<br>🛠️Hardware Design<br>🤖Embedded Systems<br>🔌Electronics<br>⚡️IoT
+🎓I'm a Junior Electronics Engineering student at the German University in Cairo.<br><br>I have a keen interest in:<br><br>🖥️PCB Design<br>🛠️Hardware Design<br>🤖Embedded Systems<br>🔌Electronics<br>⚡️IoT
 
 
 ## 🌐 Socials:
