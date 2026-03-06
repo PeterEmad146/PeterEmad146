@@ -55,11 +55,7 @@ Passionate about bridging the gap between hardware and software.
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=PeterEmad146&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Peter's GitHub Stats" /></td>
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterEmad146&theme=radical&hide_border=true" alt="Peter's GitHub Streak" /></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterEmad146&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Languages%20I%20Code%20In" alt="Peter's Top Languages" /></td>
   </tr>
 </table>
 
@@ -70,8 +66,6 @@ Passionate about bridging the gap between hardware and software.
 ---
 
 ### 🏆 Achievements & Vibe
-
-<img src="https://github-profile-trophy.vercel.app/?username=PeterEmad146&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 
 <br>
 
